@@ -1,0 +1,204 @@
+
+
+2021-09-13 14:02:40.446874
+=====================================START=====================================
+
+Proxy loaded: 109.236.54.92:1085
+
+
+Proxy loaded: 109.236.54.178:1085
+
+
+Proxy loaded: 77.83.24.196:1085
+
+
+Proxy loaded: 45.140.205.212:1085
+
+
+Proxy loaded: 193.187.95.156:1085
+
+
+Proxy loaded: 193.187.92.149:1085
+
+
+
+2021-09-13 14:04:03.734106
+=====================================START=====================================
+
+Proxy loaded: 109.236.54.92:1085
+
+
+Proxy loaded: 109.236.54.178:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/user/Wylsacom
+Proxy loaded: 77.83.24.196:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/user/Wylsacom
+Proxy loaded: 45.140.205.212:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/user/Wylsacom
+Video loaded: https://www.youtube.com/watch?v=DoFc3kQjr_U
+
+
+2021-09-13 14:06:23.710460
+=====================================START=====================================
+
+Proxy loaded: 109.236.54.178:1085
+
+
+Proxy loaded: 77.83.24.196:1085
+
+
+Proxy loaded: 109.236.54.92:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/HowdyhoNet
+Proxy loaded: 45.140.205.212:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/vdud
+Video loaded: https://www.youtube.com/watch?v=mmid_NMUoFg
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/user/Wylsacom
+Video loaded: https://www.youtube.com/watch?v=BbXXPlvcwYw
+
+Proxy loaded: 193.187.92.149:1085
+
+
+Proxy loaded: 46.161.58.48:1085
+
+
+Proxy loaded: 193.187.95.156:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/ptuxermannView completed. Video 1 of 1
+Proxy loaded: 212.192.27.34:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/vdud
+Video loaded: https://www.youtube.com/watch?v=sahnym1RjJc
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/HowdyhoNetCookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/user/WylsacomView completed. Video 1 of 3
+Video loaded: https://www.youtube.com/watch?v=_IPXiNIXuFI
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/ptuxermann
+Video loaded: https://www.youtube.com/watch?v=4PqSdOiBHI4
+
+Video loaded: https://www.youtube.com/watch?v=C-NJDlxq-_M
+
+Proxy loaded: 77.243.89.124:1085
+
+
+Proxy loaded: 109.236.53.112:1085
+
+View completed. Video 1 of 27
+Video loaded: https://www.youtube.com/watch?v=UAvnNXKeWFg
+
+Video loaded: https://www.youtube.com/watch?v=gnEJNF0con4
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/HowdyhoNetView completed. Video 1 of 1View completed. Video 2 of 3
+Video loaded: https://www.youtube.com/watch?v=W_wFkfjNFC4
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/user/WylsacomView completed. Video 1 of 3
+Video loaded: https://www.youtube.com/watch?v=IGBv-e23zGg
+
+Video loaded: https://www.youtube.com/watch?v=UqSd504ktNo
+View completed. Video 1 of 27
+Video loaded: https://www.youtube.com/watch?v=GXs4YiwOHHE
+
+Video loaded: https://www.youtube.com/watch?v=GT0twQV2RKA
+View completed. Video 2 of 27
+
+2021-09-13 14:13:07.747038
+=====================================START=====================================
+
+Proxy loaded: 109.236.54.178:1085
+
+
+Proxy loaded: 109.236.54.92:1085
+
+
+Proxy loaded: 77.83.24.196:1085
+
+
+Proxy loaded: 45.140.205.212:1085
+
+
+
+2021-09-13 14:16:38.326654
+=====================================START=====================================
+
+
+2021-09-13 14:18:34.183370
+=====================================START=====================================
+
+Proxy loaded: 109.236.54.178:1085
+
+
+Proxy loaded: 77.83.24.196:1085
+
+
+Proxy loaded: 109.236.54.92:1085
+
+
+Proxy loaded: 45.140.205.212:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/HowdyhoNetCookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/vdudCookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/user/Wylsacom
+Video loaded: https://www.youtube.com/watch?v=yZIT6ZtsNxI
+
+Video loaded: https://www.youtube.com/watch?v=1YLh1UZpPis
+
+Proxy loaded: 193.187.92.149:1085
+
+Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/ptuxermann
+Video loaded: https://www.youtube.com/watch?v=zgOW_QzanB0
+
+Proxy loaded: 46.161.58.48:1085
+
+
+Proxy loaded: 193.187.95.156:1085
+
+View completed. Video 1 of 1
+Proxy loaded: 212.192.27.34:1085
+
+View completed. Video 1 of 3Cookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/vdudCookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/user/WylsacomCookie successfully recorded.
+
+===Channel loaded===https://www.youtube.com/c/HowdyhoNet2021-09-13 14:20:07.526414
+chrome not reachable
+  (Session info: chrome=93.0.4577.63)
+Cookie record error.
+http://www.forum-books.ru
+
+
+===Channel loaded===https://www.youtube.com/c/ptuxermann2021-09-13 14:30:45.052434
+=====================================END=====================================
+
